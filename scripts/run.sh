@@ -11,4 +11,4 @@ touch data/README
 
 # Redirecting standard out to a file
 
-ls -l data/README > analysis/output.txt
+ls -l data/ > analysis/output.txt
