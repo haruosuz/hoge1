@@ -20,7 +20,7 @@ This is an example of a project directory, project documentation, and shell scri
 
 ## Scripts
 
-The shell script `scripts/run.sh` creates directories (`data/` and `analysis/`) and some empty files (`data/input.txt`), and redirecting standard out to a file.
+The shell script `scripts/run.sh` creates directories (`data/` and `analysis/`) and some empty files (`data/input.txt`), and redirecting standard out to a file (`analysis/output.txt`).
 
 Let's run this (in the `hoge1/` directory) using:
 

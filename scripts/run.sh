@@ -12,3 +12,4 @@ touch data/input.txt
 # Redirecting standard out to a file
 
 ls -l data/ > analysis/output.txt
+
